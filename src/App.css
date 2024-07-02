@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+@media (min-width: 576px) {
+  .App {
+    padding: 20px;
+  }
+}
